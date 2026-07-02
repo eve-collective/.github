@@ -6,6 +6,7 @@ This organization is at the forefront of advancing artificial intelligence, API 
 
 We champion and encourage the development and dissemination of state-of-the-art technologies, which include:
 
+- **Toolkits**: packages, libraries, tools, and utlities to support the Collective
 - **Artificial Intelligence**: Advanced large language models, chatbots, intelligent agents, and machine learning systems
 - **API Development**: Robust APIs and integrations with EVE Online's ESI and third-party ecosystems
 - **Knowledge Graphs**: Structured representations of EVE's complex universe, including relationships between entities, systems, corporations, and lore
