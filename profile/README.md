@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="assets/eve-collective-logo.svg" alt="EVE Collective" width="160" />
-</p>
-
 # EVE Collective
 
 **Open-source tools, developer APIs, and data infrastructure for New Eden.**
 
-The **EVE Collective** is an open-source project dedicated to building tools, APIs, and software around [EVE Online](https://www.eveonline.com/). 
+The **EVE Collective** is an open-source project dedicated to building tools, APIs, and software around [EVE Online](https://www.eveonline.com/).
 
 Currently built and maintained as an independent solo developer effort, the goal is to provide capsuleers, alliances, and third-party developers with transparent, reliable, and freely accessible tools across New Eden.
 
@@ -30,4 +26,4 @@ As an independent, solo-maintained project, any support to help keep hosting ali
 
 ---
 
-*Fly safe, and build boldly.* o7
+_Fly safe, and build boldly._ o7
