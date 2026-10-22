@@ -1,10 +1,10 @@
 # EVE Collective
 
-**Open-source tools, developer APIs, and data infrastructure for New Eden.**
+**Open-source tools, developer APIs, data, and infrastructure for EVE Online.**
 
-The **EVE Collective** is an open-source project dedicated to building tools, APIs, and software around [EVE Online](https://www.eveonline.com/).
+The **EVE Collective** is an open-source project dedicated to building tools, APIs, and software around [EVE Online](https://www.eveonline.com/) space MMO.
 
-Currently built and maintained as an independent solo developer effort, the goal is to provide capsuleers, alliances, and third-party developers with transparent, reliable, and freely accessible tools across New Eden.
+Currently built and maintained as an independent solo developer effort, the goal is to provide capsuleers, alliances, and third-party developers with transparent, reliable, and freely accessible tools.
 
 ---
 
