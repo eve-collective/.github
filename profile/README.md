@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/eve-collective-logo.svg" alt="EVE Collective" width="160" />
+</p>
+
 # EVE Collective
 
 **Open-source tools, developer APIs, and data infrastructure for New Eden.**
