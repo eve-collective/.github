@@ -21,8 +21,7 @@ Currently built and maintained as an independent solo developer effort, the goal
 As an independent, solo-maintained project, any support to help keep hosting alive and development moving forward is greatly appreciated:
 
 - **Feedback & Code**: Open an issue, submit a pull request, or share feedback and ideas across the repositories.
-- **In-Game Support (ISK & In-Kind Donations)**: In-kind contributions and ISK donations help cover server hosting and testing infrastructure. You can transfer in-game donations directly to:
-  > **Corporation:** `EVE Collective`
+- **In-Game Support (ISK & In-Kind Donations)**: In-kind contributions and ISK donations help cover server hosting and testing infrastructure. You can transfer in-game donations directly to [`Kavir`](https://evewho.com/character/1324957190)
 
 ---
 
